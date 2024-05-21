@@ -1,0 +1,15 @@
+{
+    "plastic_bags": 1,
+    "plastic_bottle": 2,
+    "plastic_sheet": 3,
+    "plastic_solid": 4,
+    "plastic_box": 5,
+    "metal_sheet": 6,
+    "metal_tube": 7,
+    "glass_bottle": 8,
+    "fishing_net": 9,
+    "rope": 10,
+    "can": 11,
+    "big_bag": 12,
+    "beverage_box": 13
+}

@@ -1,0 +1,13 @@
+plastic_bags
+plastic_bottle
+plastic_sheet
+plastic_solid
+plastic_box
+metal_sheet
+metal_tube
+glass_bottle
+fishing_net
+rope
+can
+
+
